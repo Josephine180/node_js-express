@@ -24,5 +24,6 @@ app.use(bodyParser.json());
 
 app.use('/api/stuff', stuffRoutes);
 app.use('/api/auth', userRoutes);
+app.use('/images', express.static(this.path.join(__dirname, 'image')))
 
 module.exports = app;
