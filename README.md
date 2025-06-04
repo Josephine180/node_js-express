@@ -68,8 +68,7 @@ npm start
 ### Structure du projet
 ```
 pgsql
-Copier
-Modifier
+
 ├── controllers/
 ├── middleware/
 ├── models/
