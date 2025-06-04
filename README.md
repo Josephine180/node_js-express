@@ -80,12 +80,12 @@ Modifier
 └── package.json
 ```
 ### Fonctionnalités principales
-Création et authentification des utilisateurs
+* Création et authentification des utilisateurs
 
-Opérations CRUD sur les ressources
+* Opérations CRUD sur les ressources
 
-Sécurisation des routes avec JWT
+* Sécurisation des routes avec JWT
 
-Validation des données entrantes
+* Validation des données entrantes
 
-Protection contre les attaques courantes
+* Protection contre les attaques courantes
