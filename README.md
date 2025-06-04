@@ -3,35 +3,35 @@ Ce projet est réalisé dans le cadre du cours Passez au Full Stack avec Node.js
 
 
 ## Objectifs du cours
-Créer un serveur web simple avec Express
+* Créer un serveur web simple avec Express
 
-Développer une API REST avec Node.js, Express et MongoDB
+* Développer une API REST avec Node.js, Express et MongoDB
 
-Mettre en place une base de données MongoDB avec Mongoose
+* Mettre en place une base de données MongoDB avec Mongoose
 
-Implémenter des opérations CRUD (Create, Read, Update, Delete)
+* Implémenter des opérations CRUD (Create, Read, Update, Delete)
 
-Gérer l'authentification des utilisateurs avec JWT
+* Gérer l'authentification des utilisateurs avec JWT
 
-Sécuriser l'API contre les attaques courantes (injections, XSS, etc.)
+* Sécuriser l'API contre les attaques courantes (injections, XSS, etc.)
 
 
 ## Technologies utilisées
-Node.js
+* Node.js
 
-Express
+* Express
 
-MongoDB
+* MongoDB
 
-Mongoose
+* Mongoose
 
-JSON Web Tokens (JWT)
+* JSON Web Tokens (JWT)
 
-bcrypt
+* bcrypt
 
-Helmet
+* Helmet
 
-dotenv
+* dotenv
 
 
 ## Installation
